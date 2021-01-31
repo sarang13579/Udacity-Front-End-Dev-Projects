@@ -1,0 +1,33 @@
+body{
+	font-family: 'Lato', sans-serif;
+	color: #747704;
+	font-weight: 300;
+}
+
+a:hover h3, .no-un, a h3{
+	text-decoration: none;
+	display: inline-block;
+}
+
+.text{
+margin-bottom: 25px;
+color: rgb(141, 141, 141);
+font-size: 40px;
+font-weight: 900;
+}
+
+.title-logo{
+margin-top: 20px;
+max-width: 25%;
+}
+
+.modifications{
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	box-shadow: 0 20px 30px 0 rgba(0, 0, 0, 0.2);
+	text-align: center;
+}
+
+
+
